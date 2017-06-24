@@ -1,0 +1,19 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<ol>
+<h1><strong>音乐排行榜</strong></h1>
+
+<p><li><a href="徐佳莹 - 大雨将至.mp3">徐佳莹 - 大雨将至</a><img src="image/pic1.png" width="13" height="16" /></p>
+
+
+<p><li><a href="金琳 - 雨落长安.mp3">金琳 - 雨落长安</a><img src="image/pic1.png" width="13" height="16" /></p>
+<ol/>
+</body>
+</html>
